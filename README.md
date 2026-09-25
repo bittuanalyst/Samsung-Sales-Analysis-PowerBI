@@ -50,9 +50,10 @@ Customer ratings from 1 to 5 are visualized to understand rating distribution.
 ### Geographic Analysis
 City-level sales and quantity are represented using geographic visualizations.
 
-## 📷 Dashboard Preview
+## 📂 Project Files
 
-![Samsung Sales Dashboard](https://1drv.ms/u/c/65897260049384e7/IQCyeXs45XAaSI_Q5QoX2AiXAZgS3bX5JcsNdjeBYaShl0w?e=LJZkXb)
+- `Samsung_Sales_Analysis.pbix` – Complete Power BI dashboard and analysis
+- `Insights/business_insights.md` – Key business insights from the analysis
 
 ## 📂 Project Files
 
