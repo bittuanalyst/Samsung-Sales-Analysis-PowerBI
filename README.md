@@ -52,7 +52,7 @@ City-level sales and quantity are represented using geographic visualizations.
 
 ## 📷 Dashboard Preview
 
-![Samsung Sales Dashboard](Dashboard/samsung_sales_dashboard.png)
+![Samsung Sales Dashboard](https://1drv.ms/u/c/65897260049384e7/IQCyeXs45XAaSI_Q5QoX2AiXAZgS3bX5JcsNdjeBYaShl0w?e=LJZkXb)
 
 ## 📂 Project Files
 
